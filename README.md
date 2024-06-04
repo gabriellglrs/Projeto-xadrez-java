@@ -1,8 +1,18 @@
+<img src="./img/banner github.png" alt="banner"/>
+
 # Projeto Xadrez em Java
 
-## Funcionalidades
+## Tecnologias Utilizadas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <br>
 
-O jogo implementará as seguintes funcionalidades:
+- Linguagem de programação: Java
+- Conceitos POO:
+  - Encapsulamento
+  - Polimorfismo
+  - Herança
+- Estruturas de dados:
+  - Listas
+  
+## O jogo implementará as seguintes funcionalidades:
 
 ### Movimentação de peças:
 
@@ -36,17 +46,6 @@ O jogo implementará as seguintes funcionalidades:
 
 - Exceções serão usadas para lidar com erros e situações inesperadas.
 
-## Tecnologias Utilizadas
-
-- Linguagem de programação: Java
-- Conceitos OOP:
-    - Encapsulamento
-    - Polimorfismo
-    - Herança
-- Estruturas de dados:
-    - Listas
-- Bibliotecas:
-    - (Opcional, dependendo da implementação da interface gráfica) Bibliotecas para interface gráfica (ex: Java Swing, JavaFX)
 
 ## Instruções de Uso
 
@@ -59,7 +58,6 @@ O jogo implementará as seguintes funcionalidades:
 ## Observações
 
 - Este projeto está em desenvolvimento e pode conter bugs ou funcionalidades incompletas.
-- A implementação da interface do usuário pode ser feita de diversas maneiras (terminal, gráfica, etc.).
 - Sinta-se à vontade para contribuir com o projeto, sugerindo melhorias ou corrigindo erros.
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer" alt="footer"/>
