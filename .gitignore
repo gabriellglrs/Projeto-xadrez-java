@@ -1,29 +1,88 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+#############################
+##Java
+#############################
+.mtj.tmp/
+*.aula
+*.jar
+*.guerra
+*.orelha
+*.nar
+hs_err_pid*
+repetição_pid*
 
-### Eclipse ###
-.apt_generated
+#############################
+## Maven
+#############################
+alvo/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+lançamento.propriedades
+dependência-reduzida-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+#############################
+## Gradle
+#############################
+caixa/
+construir/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+#############################
+##IntelliJ
+#############################
+fora/
+.ideia/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+#############################
+##Eclipse
+#############################
+.configurações/
+tmp/
+.metadados
 .classpath
+.projeto
+*.tmp
+*.bak
+*.swp
+*~.nib
+propriedades locais
+.loadpath
 .factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+#############################
+##NetBeans
+#############################
+nbprojeto/privado/
+nbconstruir/
+dist/
+nbdist/
+nbactions.xml
+nb-configuração.xml
 
-### VS Code ###
+#############################
+## Código do Visual Studio
+#############################
 .vscode/
+.code-workspace
 
-### Mac OS ###
+#############################
+## OS X
+#############################
 .DS_Store
+
+#############################
+## Diversos
+#############################
+*.registro
