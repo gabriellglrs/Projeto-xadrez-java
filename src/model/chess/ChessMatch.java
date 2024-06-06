@@ -1,6 +1,6 @@
-package chess;
+package model.chess;
 
-import Boardgame.Board;
+import model.Boardgame.Board;
 
 public class ChessMatch {
     private Board board;

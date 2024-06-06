@@ -1,6 +1,6 @@
 package application;
 
-import chess.ChessMatch;
+import model.chess.ChessMatch;
 
 public class Program {
     public static void main(String[] args) {

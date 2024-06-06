@@ -1,16 +1,18 @@
 <img src="./img/banner github.png" alt="banner"/>
 
-# Projeto Xadrez em Java
+# Projeto Xadrez <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <br>
 
-## Tecnologias Utilizadas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <br>
+## Tecnologias Utilizadas 
 
 - Linguagem de programação: Java
 - Conceitos POO:
+  - Construtores
   - Encapsulamento
   - Polimorfismo
   - Herança
 - Estruturas de dados:
   - Listas
+  - Arrays
   
 ## O jogo implementará as seguintes funcionalidades:
 

@@ -1,7 +1,7 @@
-package chess;
+package model.chess;
 
-import Boardgame.Board;
-import Boardgame.Piece;
+import model.Boardgame.Board;
+import model.Boardgame.Piece;
 
 public class ChessPiece extends Piece {
     private  Color color;

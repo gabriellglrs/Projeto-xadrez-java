@@ -1,4 +1,4 @@
-package Boardgame;
+package model.Boardgame;
 
 public class Piece {
     protected Position position;
