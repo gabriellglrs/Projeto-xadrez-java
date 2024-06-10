@@ -1,7 +1,7 @@
 package model.Boardgame;
 
 public class Position {
-    private  int row;
+    private int row;
     private int column;
 
     public Position() {
